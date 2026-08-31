@@ -213,7 +213,7 @@ The cumulative explained variance graph is generated using:
 np.cumsum(pca.explained_variance_ratio_)
 ```
 
-<img src="assets/cumulative-explained-variance-by-principle-components.png" alt="cumulative-explained-variance-by-principle-components" width="800px"/>
+<img src="assets/cumulative-explained-variance-by-principle-components.png" alt="cumulative-explained-variance-by-principle-components" width="600px"/>
 
 This graph shows how much information is retained as more principal components are included.
 
